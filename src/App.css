@@ -1,0 +1,59 @@
+.main-container{
+    margin: 2%;
+    height: auto;
+    width: 95%;
+    padding: 1%;
+}
+.question-container{
+    background-color: #F0F7FF;
+    color: #062547;
+    height: 200px;
+    padding: 2%;
+    border-radius: 5px;
+}
+.question-container,p{
+    font-size: 28px;
+    font-family: "Kanit", serif;
+}
+/* From Uiverse.io by deepak16375 */ 
+.input {
+    width: 90%;
+    padding: 15px;
+    outline: none;
+    font-size: 17px;
+    color: black;
+    border-top-left-radius: .5em;
+    border-bottom-left-radius: .5em;
+    border: 2px solid #fff;
+    margin-right: -10px;
+  }
+  
+  .button {
+    border: none;
+    background-color: #1363DF;
+    text-decoration: none;
+    padding: 15px;
+    padding-bottom: 17px;
+    font-size: 17px;
+    color: #fff;
+    border-top-right-radius: .5em;
+    border-bottom-right-radius: .5em;
+    cursor: pointer;
+  }
+  .answer-container{
+    background-color: beige;
+    height: auto;
+    width: 100%;
+    margin-top: 20px;
+    padding: 2%;
+  }
+  /* For Smartphones */
+@media only screen and (max-width: 768px) {
+    /* Styles for smartphones go here */
+    .question-container{
+        height: auto;
+    }
+    .input{
+        width: 82%;
+    }
+}
