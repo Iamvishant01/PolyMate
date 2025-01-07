@@ -1,4 +1,4 @@
-#PolyMate - MSBTE Syllabus Chatbot for Maharashtra Students 🚀🎓
+# PolyMate - MSBTE Syllabus Chatbot for Maharashtra Students 🚀🎓
 
 Hey there, Student of Maharashtra! 👋
 
