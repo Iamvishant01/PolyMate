@@ -1,5 +1,7 @@
 # PolyMate - MSBTE Syllabus Chatbot for Maharashtra Students 🚀🎓
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://polymate.netlify.app/)
+
 Hey there, Student of Maharashtra! 👋
 
 Need quick help with the MSBTE syllabus or your polytechnic studies? You’re in the right place! This **React-based chatbot** powered by Gemini API is here to answer all your questions and guide you through your academic journey. Whether you’re struggling to find the right syllabus details or just curious about your course or exams, we’ve got you covered! 
