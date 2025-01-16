@@ -64,7 +64,7 @@ export default function Bot() {
   };
   
   const handleAskQuestion = async () => {
-    const prompt = "i am going to use ask you questions realated to MSBTE syllabus and polytechnic studies , this is the points you can refer"+curriculum+"and if dont get the answer from refer points you can use your own knowledge regarding to topic or MSBTE Syllabus and polytechnic, and your developed by Vishant Netke with the help of Google api and prof sultan sir teaches us software testing for msbte syllabus and Prof. Chaudhary R.R. teaches us MIC or Microprocessor subject, and my question is "+userInput;
+    const prompt = "i am going to use ask you questions realated to MSBTE syllabus and polytechnic studies , this is the points you can refer"+curriculum+"and if dont get the answer from refer points you can use your own knowledge regarding to topic or MSBTE Syllabus and polytechnic, and your developed by Vishant Netke with the help of Google api and my question is "+userInput;
     setIsLoading(true);  // Set loading state to true
     try {
       const result = await model.generateContent(prompt);  // Send the user input to the AI model
