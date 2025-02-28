@@ -16,7 +16,7 @@ function Navbar() {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                     <li className="nav-item">
-                    <a className="nav-link active" href="https://linktr.ee/iamvishant02" target='about_blank'>Developer's Contact</a>
+                    <a className="nav-link active" href="/" target='about_blank'>Developer's Contact</a>
                     </li>
                     <li className="nav-item">
                     <a className="nav-link active" href='https://msbte.ac.in/' target='about_blank' >Resources</a>
